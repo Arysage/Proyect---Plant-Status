@@ -44,3 +44,9 @@ Cómo Ejecutar
 
 Dataset
 https://drive.google.com/drive/folders/1D72K9PJ6xgcV_2WoZheaJk1QSfJAc24B?usp=drive_link
+
+----------------------------------------------------------------------------------------
+Modelos Entrenados
+Solamente aparecen los entrenados con augmente dataset, ya que son los finales, con las diferentes epocas y el modelo final.
+
+🔗 Modelos entrenados: https://drive.google.com/drive/folders/184BphjVmEfdL0npyJ3MqRbB9nwEDROdg?usp=sharing
